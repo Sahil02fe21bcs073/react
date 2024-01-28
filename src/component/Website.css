@@ -1,0 +1,45 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  nav {
+    background-color: #444;
+    padding-right: 10%;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  .tt{
+    background-color: beige;
+    text-align: center; 
+    
+}
+
+  
+  .cont {
+   
+  
+  }
+  
+  .cont img {
+    border: 5px solid black;
+    margin-right: 0%;
+    max-width: 100%;
+    height: auto;
+    
+   
+  }
+
+  
+  .cont button {
+    background-color: #333;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }  
+
